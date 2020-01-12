@@ -1,4 +1,4 @@
-Kalian Masukkan Perintahnya 
+abu amra braheem 
 apt update && apt upgrade
 apt install php 
 apt install toilet
@@ -9,7 +9,5 @@ chmod +x *
 ls
 sh ALLBANK
 
-Pesan:Ingat Jangan Disalah Gunakan Jika Tidak Mentransfer Jangan Salahin Admin Dan
-Yang Buat Videonya Di Chanel Youtubenya !!!
+Pesan:Ingat abu amra braheem
 
-~SekianTerimaKasih 
